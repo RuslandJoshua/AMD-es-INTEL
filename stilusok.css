@@ -81,3 +81,7 @@ h1 {
 p {
     text-align: justify;
 }
+
+u {
+    text-decoration: double;
+}
